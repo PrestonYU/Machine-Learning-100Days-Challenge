@@ -1,5 +1,5 @@
 # 3rd-ML-100Days
-
+Machine Learning 100 Days Challenge
 
 ### 機器學習概論
 - **<a href=https://github.com/PrestonYU/3rd-ML-100Days/blob/master/homework/Day_001_HW.ipynb>Day1_資料介紹與評估資料 (申論+程式碼)</a>**
