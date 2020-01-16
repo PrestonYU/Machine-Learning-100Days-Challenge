@@ -1,5 +1,5 @@
-# 3rd-ML-100Days
-Machine Learning 100 Days Challenge
+# Machine Learning 100 Days Challenge
+Cupoy 3rd-ML-100Days
 
 
 ### 機器學習概論
